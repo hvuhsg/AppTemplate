@@ -25,34 +25,34 @@ apps](https://flutter.dev/docs/development/accessibility-and-localization/intern
 
 ## Code Structure (`lib/`)
 
-### main
+### main (`lib/main.dart`)
 
 The main function of the app, responsible for initializing services creating providers and running the app.
 
-### models
+### models (`lib/models/`)
 
-All the models of the app, a model is a class that contain only data
+All the models of the app, a model is a class that contains only data
 
-### providers
+### providers (`lib/providers/`)
 
 Provider is responsible for holding the app state and notifying about any change
 
-### services
+### services (`lib/services/`)
 
 Services are logic components that provid a specific service like remote-file-storage or notifications-service
 
-### UI
+### UI (`lib/UI/`)
 
 The UI folder contains all of the app UI
 
-#### Screens
+#### Screens (`lib/UI/screens/`)
 
 All of the screens of the app and thire widgets
 
-#### widgets
+#### widgets (`lib/UI/widgets/`)
 
 Widgets that get use in more then one screen
 
-#### app
+#### app (`lib/UI/app.dart`)
 
 The UI manager, responsible for routes and theme, language and more...
