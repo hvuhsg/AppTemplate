@@ -2,7 +2,7 @@
 
 Flutter application template
 
-## Who do I use it?
+## How do I use it?
 
 This project is a starting point for a Flutter application with simple but powerful structure.
 
