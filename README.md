@@ -23,7 +23,7 @@ To support additional languages, please visit the tutorial on
 [Internationalizing Flutter
 apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
 
-## Structure (the lib folder)
+## Code Structure (`lib/`)
 
 ### main
 
