@@ -17,7 +17,7 @@ images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-awa
 ## Localization
 
 This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
+the `lib/localization` directory.
 
 To support additional languages, please visit the tutorial on
 [Internationalizing Flutter
@@ -28,10 +28,6 @@ apps](https://flutter.dev/docs/development/accessibility-and-localization/intern
 ### main
 
 The main function of the app, responsible for initializing services creating providers and running the app.
-
-### generated_plugin_registerant
-
-Auto generated, do not touch
 
 ### models
 
